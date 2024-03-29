@@ -7,7 +7,7 @@
   "dependencies": {
     "core-js": "^2.5.7",
     "cheerio": "^1.0.0-rc.2",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.0",
     "gulp-csslint": "^1.0.1",
     "gulp-csslint-report": "^2.0.0",
     "gulp-gzip": "^1.4.2",
